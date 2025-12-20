@@ -1,0 +1,9 @@
+* nanovg-blob
+
+Precompiled NanoVG library binaries.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/nanovg-blob.git |
+| commit  | c6cac1b                                        |
+| systems | nanovg-blob                                    |
+|---------+------------------------------------------------|
