@@ -7,3 +7,4 @@ Precompiled NanoVG library binaries.
 | commit  | c6cac1b                                        |
 | systems | nanovg-blob                                    |
 |---------+------------------------------------------------|
+ 
